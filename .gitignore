@@ -1,0 +1,69 @@
+# ==========================================
+# İşletim Sistemi Kalıntıları (macOS / Linux)
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ==========================================
+# Editör & IDE Ayarları (VS Code / CLion)
+# ==========================================
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ==========================================
+# Derleme ve Çalıştırılabilir Dosyalar (Build)
+# ==========================================
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.a
+bin/
+build/
+dist/
+
+# Görev çalıştırılabilir binary çıktıları
+task*_transform
+task*_histogram
+task*_brightness
+task*_custom_image
+hocanin_kodu
+process_cuda
+test_env
+app3_roi_threads
+quantize_woman
+
+# ==========================================
+# Geçici ve Arşiv Dosyaları
+# ==========================================
+*.zip
+*.tar
+*.tar.gz
+*.tar.bz2
+*.7z
+opencv_install/
+
+
+# ==========================================
+# Python & Jupyter / Colab Kalıntıları
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.egg-info/
+.pytest_cache/
