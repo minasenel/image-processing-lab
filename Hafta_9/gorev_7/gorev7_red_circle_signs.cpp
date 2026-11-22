@@ -1,13 +1,12 @@
 /*
-Ornek cikti (7 ornek gorsel - samples/ klasorunden, Python prototipiyle
-dogrulanmistir, Colab'deki C++ ciktisi ayni mantikla benzer olacaktir):
-  sign_01.png -> 1 kirmizi cember tespit edildi.
-  sign_02.png -> 1 kirmizi cember tespit edildi.
-  sign_03.png -> 1 kirmizi cember tespit edildi.
-  sign_04.png -> 1 kirmizi cember tespit edildi.
-  sign_05.png -> 1 kirmizi cember tespit edildi.
-  sign_06.png -> 1 kirmizi cember tespit edildi.
-  sign_07.png -> 1 kirmizi cember tespit edildi.
+sign_01.png -> 1 kirmizi cember tespit edildi.
+sign_02.png -> 1 kirmizi cember tespit edildi.
+sign_03.png -> 1 kirmizi cember tespit edildi.
+sign_04.png -> 1 kirmizi cember tespit edildi.
+sign_05.png -> 1 kirmizi cember tespit edildi.
+sign_06.png -> 1 kirmizi cember tespit edildi.
+sign_07.png -> 1 kirmizi cember tespit edildi.
+Toplam 7 gorsel islendi. Tek parca grid sonucu kaydedildi: "/content/traffic_signs_out/grid_sonuc.png"
 
 Hafta 9 - Gorev 7: Kirmizi cember iceren trafik isaretlerinin tespiti
 (https://www.kaggle.com/datasets/tabishalam0/traffic-signs-dataset-germany-uk-usa
